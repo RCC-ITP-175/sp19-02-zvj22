@@ -10,17 +10,17 @@
 
 # INSTRUCTOR FEEDBACK
 
-Task: Sort states.txt alphabetically and save it as a new file named states-sorted.txt
+Task: Sort states.txt alphabetically and save it as a new file named states-sorted.txt  
 10/10 possible points
 
-Task: In states.txt, replace all occurrences of the letter a with the letter z and save it as a new file named stztes.txt
+Task: In states.txt, replace all occurrences of the letter a with the letter z and save it as a new file named stztes.txt  
 10/10 possible points
 
-Task: Edit ~/.bash_profile and create an alias for the command ls -alt that equals l
+Task: Edit ~/.bash_profile and create an alias for the command ls -alt that equals l  
 0/10 possible points
 No .bash_profile or history.txt included to verify this took place
 
-Task: Type history > history.txt
+Task: Type history > history.txt  
 0/10 possible points
 No history.txt present containing terminal history
 
